@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(214, 218, 216);
+}
+.container h1{
+    text-align: center;
+    color: black;
+    font-size: 40px;
+    padding-top: 25px;
+}
+
+.content{
+    background-color: rgb(179, 245, 245);
+    margin-left: 70px;
+    margin-right: 100px;
+    width: 50%;
+    height: 120px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 25px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px;
+}
+
+.content h2{
+    color: rgb(120, 128, 252);
+    font-size: 25px;
+}
+
+.btn{
+    background-color: black;
+    color: white;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 10px;
+    margin-top: 40px;
+    margin-left: 130px;
+    cursor: pointer;
+    font-size: 17px;
+
+}
